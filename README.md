@@ -4,7 +4,7 @@
 
 It's a loose 3D clone of [Jetz Rampage](https://www.youtube.com/watch?v=b9mFjAjjryk). It can be summed up like this:
 * Fly around with your hovercraft in a cyber city
-* Be a psycho and kill lot's of innocent citizens
+* Be a psycho and kill lots of innocent citizens
 * The police will hunt you down - the game will be super difficult!
 * There will be some boring non violent quests for noobs who want to earn money for better guns!
 
