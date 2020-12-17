@@ -1,0 +1,9 @@
+# gitignore template for InforCRM (formerly SalesLogix)
+# website: https://www.infor.com/product-summary/cx/infor-crm/
+#
+
+.idea
+Logs
+obj
+Temp
+*.meta
