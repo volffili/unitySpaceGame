@@ -51,6 +51,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.252
       objectReference: {fileID: 0}
+    - target: {fileID: 1522043227476337604, guid: 58da6672c961241f1893b33938e2dec6, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7551798359007773389, guid: 58da6672c961241f1893b33938e2dec6, type: 3}
       propertyPath: m_Name
       value: vehicle01
